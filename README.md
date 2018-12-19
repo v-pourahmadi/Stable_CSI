@@ -1,4 +1,5 @@
-# Deep UL2DL
+# Stable CSI Extraxtion 
+
 ## Source code of:
 Deep Neural Networks Meet CSI-Based Authentication
 
